@@ -7,3 +7,7 @@ when they tell us their registration number.
 
 Technology used in this application is JAVA, XML, MySQL Database etc.
 #Tool used: android studio
+
+Made by
+  -Bibek lamsal
+  -Milan Thapa
