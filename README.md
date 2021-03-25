@@ -1,7 +1,4 @@
 # StudentInfoApp 
-In College, Difficult thing to search each and every student record in the Book Record and
-This is the older style to go through each every file and find the record.
-
 We made this application which takes  excel or CSV file as input 
 which contains student record and fetch that student info in just a second. 
 
